@@ -5,7 +5,7 @@ bcrypt==3.1.0
 billiard==3.5.0.2
 blinker==1.4
 boto==2.45.0
-celery==4.0.2
+celery==5.2.2
 cffi==1.7.0
 click==6.6
 crcmod==1.7
